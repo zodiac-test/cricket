@@ -8,3 +8,8 @@ S Tendulkar 200*
 C Coventry 194*
 S Anwar 194
 V Richards 189*
+M Guptill 189*
+S Jayasuriya 189
+G Kirsten 188
+S Tendulkar 186
+S Watson 185*
