@@ -1,8 +1,8 @@
-R Sharma 264
-M Guptill 237*
-V Sehwag 219
-C Gayle 215*
-R Sharma 209
+R Sharma 264 IND
+M Guptill 237* NZ
+V Sehwag 219 IND
+C Gayle 215* WI
+R Sharma 209 IND
 R Sharma 208*
 S Tendulkar 200*
 C Coventry 194*
