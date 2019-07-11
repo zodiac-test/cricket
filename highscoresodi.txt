@@ -5,3 +5,6 @@ C Gayle 215*
 R Sharma 209
 R Sharma 208*
 S Tendulkar 200*
+C Coventry 194*
+S Anwar 194
+V Richards 189*
